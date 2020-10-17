@@ -1,6 +1,7 @@
 # Covid-19 Tracker
-
+![Screenshot](screenshot.png)
 ## Here's a Covid-19 Tracker made using the all new python module **covid**
+
 
 > Open console in your editor
 >> Clone the repository
